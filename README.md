@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jimmy</h1>
 <h3 align="center">A seasoned iOS  and web Software engineer </h3>
 
-- 🔭 I’m currently working on [tech-flashcard](https://github.com/jimmy0804/tech-flashcard)
-
-- 🌱 I’m currently learning **SwiftUI, Combine**
-
 - 💬 Ask me about **iOS application development, Vue.js**
 
-- 📫 How to reach me **jimmy090804@gmail.com**
+- 📫 How to reach me **yeungjht@gmail.com**
 
 - ⚡ Fun fact **Apple fanboy**
 
